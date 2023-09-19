@@ -1,6 +1,7 @@
 # Amazon Website Clone Project
 
-![vecteezy_amazon-logo-editorial-vector_19040342](https://github.com/thecarlover/Amazon-Website-Clone-project/assets/79406282/07f20205-1626-46be-b6d6-e9fb11835e40)
+<img src="https://github.com/thecarlover/Amazon-Website-Clone-project/assets/79406282/07f20205-1626-46be-b6d6-e9fb11835e40" width="500"/>
+
 
 Welcome to the Amazon Website Clone Project! This project aims to replicate the design and functionality of the official [Amazon website](https://www.amazon.com) using HTML, CSS. By creating a faithful clone, we hope to both learn and showcase our web development skills.
 
